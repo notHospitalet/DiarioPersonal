@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183884413166",
+    "project_id": "diariopersonal2-d6826",
+    "storage_bucket": "diariopersonal2-d6826.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183884413166:android:00ee37b038934700ea5bff",
+        "android_client_info": {
+          "package_name": "com.example.diariopersonal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183884413166-4kucth3peq485pppps87fm7ap8nv8gvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6d0BQL4_OUBBl_hj5vVbzW5fLIlH0Knc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183884413166-4kucth3peq485pppps87fm7ap8nv8gvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
